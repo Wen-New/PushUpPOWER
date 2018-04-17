@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028915283842",
+    "firebase_url": "https://pushuppower-304af.firebaseio.com",
+    "project_id": "pushuppower-304af",
+    "storage_bucket": "pushuppower-304af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028915283842:android:07b158db5c20b677",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.pushuppower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028915283842-rc5q43rfs8sf6fb1bok8m7e6ajjvri8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.rp.c346.pushuppower",
+            "certificate_hash": "684cd03c83de116cd8273ce6d535bd404f77ab64"
+          }
+        },
+        {
+          "client_id": "1028915283842-idoenslcn4v6nkmtg4h5la2gi5307dr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAqbKj8QOJREu-bZCAP0FU6P3vRyj2Mk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028915283842-idoenslcn4v6nkmtg4h5la2gi5307dr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
